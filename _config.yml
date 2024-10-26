@@ -1,9 +1,0 @@
-theme: jekyll-theme-cayman
-title: SQA Higher Computer Science
-description: Classroom Resources
-show_downloads: False
-navigation:
-  - title: Home
-    url: /
-  - title: Write Ups
-    url: setup
