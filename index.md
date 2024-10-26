@@ -1,1 +1,1 @@
-* [Basic Penetration CTF](/Working-with-Records/Instructions.md)
+* [Working with Records](/Working-with-Records/Instructions.md)
