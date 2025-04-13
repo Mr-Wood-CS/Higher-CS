@@ -34,6 +34,8 @@ nav:
           - Trace Tables: 'SDD/5.0-Trace-Tables.md'
     - Unit 2 - Computer Systems:
       - CS/index.md
+      - Two's Compliment: 'CS/1.0_Twos_Compliment.md'
+      - Floating Point Representation: 'CS/1.2_Floating_Point_Representation'
     - Unit 3 - Database Design and Development:
       - DDD/index.md
       - End user Requirements: 'DDD/1.1-End-User-Requirements.md'
