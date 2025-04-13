@@ -34,8 +34,14 @@ nav:
           - Trace Tables: 'SDD/5.0-Trace-Tables.md'
     - Unit 2 - Computer Systems:
       - CS/index.md
-      - Two's Compliment: 'CS/1.0_Twos_Compliment.md'
-      - Floating Point Representation: 'CS/1.2_Floating_Point_Representation'
+      - Data Representation:
+        - Two's Compliment: 'CS/1.0_Twos_Compliment.md'
+        - Floating Point Representation: 'CS/1.1_Floating_Point_Representation.md'
+        - Unicode: 'CS/1.2_Unicode.md'
+        - Bitmaps and Vectors: 'CS/1.3_Bitmaps_and_Vectors.md'
+      - Computer Structure: 'CS/2.0_Computer_Structure.md'
+      - Environmental Impact: 'CS/3.0_Environmental_Impact.md'
+      - Security Risks and Precautions: 'CS/4.0_Security_Risks_and_Precautions.md'
     - Unit 3 - Database Design and Development:
       - DDD/index.md
       - End user Requirements: 'DDD/1.1-End-User-Requirements.md'
